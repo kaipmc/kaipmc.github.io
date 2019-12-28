@@ -1,0 +1,1 @@
+$(document).ready(function(){$('.js-langswitch-opener').click(function(){$(this).next().slideToggle(200);});});
